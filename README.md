@@ -31,13 +31,12 @@ When creating a new issue, please select the appropriate issue template from the
 
 ## Issue Labels
 
-- `bug`: Something isn't working as expected
-- `enhancement`: New feature or improvement suggestion
-- `documentation`: Documentation-related issues
+- `General Feedback`: Use for general comments and feedback
+- `Security Issue`: A security issue has been found
+- `bug`: Something isn't working
+- `duplicate`: This issue or pull request already exists
+- `enhancement`: New feature or request
 - `ui/ux`: User interface or experience improvements
-- `high-priority`: Critical issues requiring immediate attention
-- `good first issue`: Good for first-time contributors
-- `help wanted`: Extra attention is needed
 
 ## Support
 
